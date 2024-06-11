@@ -1,4 +1,4 @@
-# 💫 Hi, I'm Mario:
+# 💫 Hi, I'm Mario
 🔭 I’m currently studying Computer Science<br>🤝 I’m currently working for Adolf Schuch GmbH<br>🌱 I’m currently learning Rust and Flutter<br>⚡ Fun fact: I use Linux
 
 
